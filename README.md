@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python programming from smit
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me on git
+i am looking a new life
 
 <!---
 MoinAhmed12/MoinAhmed12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
